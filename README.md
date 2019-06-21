@@ -1,5 +1,5 @@
 # block-box-game
-This is my first machine project for my first Computer Programming class in the university in my freshman year.
+This is my first machine project for my Computer Programming class (COMPRO1) in the university in my freshman year.
 
 |Function Name|Description|Input Parameter|Return Data|
 |-|-|-|-|
